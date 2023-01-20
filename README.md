@@ -14,7 +14,10 @@
 
 ## Change Risk Reward Accordinglu
 
-###  I chose 300 points tragte and 50 points sl
+###  I chose 300 points target and 50 points stop loss
 ![image](https://user-images.githubusercontent.com/34247973/213706344-0f19c1fc-60e3-4977-bf6b-4d61a6f8f000.png)
+
+### Link To download Talib library and many other
+https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
 
