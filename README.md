@@ -26,15 +26,15 @@
 
 
 
-### Backtest REsult
+### Backtest Result
 
 ![image](https://user-images.githubusercontent.com/34247973/213705428-68f2eff4-27a6-4fed-8166-61f8a06cad9d.png)
 
 
-# Edit As Your Wish
+# Edit As You Wish
  
 * Change Risk Reward Accordingly
-* I have choosen 300 points target and 50 points stop loss,
+* I have choosen 300 points target and 50 points stop loss, modify as you want
 ![image](https://user-images.githubusercontent.com/34247973/213706344-0f19c1fc-60e3-4977-bf6b-4d61a6f8f000.png)
 
 * Link To download Talib library and many other
